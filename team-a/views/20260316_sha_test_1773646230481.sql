@@ -1,0 +1,1 @@
+SELECT 2 AS sha_test;
