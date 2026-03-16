@@ -8,12 +8,12 @@
       "files": [
         "alter_ddls/001_initial_schema.sql"
       ],
-      "status": "approved",
+      "status": "deployed",
       "submitted_by": "Alice Chen",
       "submitted_at": "2026-03-16T18:07:45.962987+00:00",
       "reviewed_by": "GitHub PR merge",
       "reviewed_at": "2026-03-16T18:11:04.614184+00:00",
-      "deployed_at": null,
+      "deployed_at": "2026-03-16T18:11:08.768913+00:00",
       "notes": null,
       "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/3",
       "pr_number": 3,
