@@ -1,0 +1,15 @@
+# ─────────────────────────────────────────────────────────────
+# CODEOWNERS — SQL Deployment Portal
+#
+# GitHub automatically assigns these reviewers when a PR
+# touches files in the specified folders.
+#
+# Team Alpha:  alice (dsaipg) and bob (cldpd-code)
+# Team Beta:   rita (no GitHub account yet)
+# ─────────────────────────────────────────────────────────────
+
+# Team Alpha — either alice or bob must review
+team-a/**    @dsaipg @cldpd-code
+
+# Team Beta — both team members must review (add rita's GitHub when available)
+team-b/**    @dsaipg
