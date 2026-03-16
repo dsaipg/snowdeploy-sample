@@ -170,6 +170,25 @@
       "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/3",
       "pr_number": 3,
       "schedule": null
+    },
+    {
+      "id": "a54543df-2cec-40c8-8e3c-bfaaf433f0ea",
+      "team_id": "team_a",
+      "from_env": "dev",
+      "to_env": "qa",
+      "files": [
+        "alter_ddls/001_initial_schema.sql"
+      ],
+      "status": "open",
+      "submitted_by": "Alice Chen",
+      "submitted_at": "2026-03-16T08:42:12.269803+00:00",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "deployed_at": null,
+      "notes": null,
+      "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/3",
+      "pr_number": 3,
+      "schedule": null
     }
   ]
 }
