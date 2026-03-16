@@ -1,0 +1,2 @@
+-- Write your SQL here
+CREATE OR REPLACE VIEW e2e_test AS SELECT 1 AS col;
