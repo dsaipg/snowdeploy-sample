@@ -8,15 +8,34 @@
       "files": [
         "alter_ddls/001_initial_schema.sql"
       ],
-      "status": "open",
+      "status": "deployed",
       "submitted_by": "Alice Chen",
       "submitted_at": "2026-03-16T18:07:45.962987+00:00",
+      "reviewed_by": "GitHub PR merge",
+      "reviewed_at": "2026-03-16T18:11:04.614184+00:00",
+      "deployed_at": "2026-03-16T18:11:08.768913+00:00",
+      "notes": null,
+      "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/3",
+      "pr_number": 3,
+      "schedule": null
+    },
+    {
+      "id": "64f12e63-9eaa-4438-ab47-f7287f5884b0",
+      "team_id": "team_a",
+      "from_env": "dev",
+      "to_env": "qa",
+      "files": [
+        "sql_scripts/seed_dev_data.sql"
+      ],
+      "status": "open",
+      "submitted_by": "Alice Chen",
+      "submitted_at": "2026-03-16T18:35:17.003077+00:00",
       "reviewed_by": null,
       "reviewed_at": null,
       "deployed_at": null,
       "notes": null,
-      "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/3",
-      "pr_number": 3,
+      "pr_url": "https://github.com/dsaipg/snowdeploy-sample/pull/4",
+      "pr_number": 4,
       "schedule": null
     }
   ]
